@@ -1,2 +1,2 @@
 # BadgeStream
-Node apolication built following Codeschool's STB.
+Node application built following Codeschool's STB.
